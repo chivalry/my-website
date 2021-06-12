@@ -6,5 +6,4 @@ changes
 
 ## Repository Purpose
 
-This will be a change the conflicts
-with whatever is on GitHub
+This file is just a readme file.
