@@ -4,4 +4,6 @@ This is a really awesome website
 
 changes
 
-MORE xhnFW
+## Purpose
+
+This file is just a readme file.
